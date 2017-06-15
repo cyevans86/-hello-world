@@ -1,2 +1,2 @@
 # -hello-world
-Learn in Librarys #librarycarpentry
+<i> Learn in Libraries #librarycarpentry</i>
